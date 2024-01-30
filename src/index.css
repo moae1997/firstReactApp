@@ -13,6 +13,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+ul {
+  text-align: left;
+}
+.secdiv {
+  border: 1px solid white;
+  padding: 15px;
+}
+
 a {
   font-weight: 500;
   color: #646cff;

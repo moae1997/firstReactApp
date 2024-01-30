@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       {featPupId && (
-        <div>
+        <div className='secdiv'>
           <h2>{featuredPup.name}</h2>
           <ul>
             <li>Age: {featuredPup.age}</li>
